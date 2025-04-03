@@ -3,7 +3,7 @@ This is a tool to extract resistivity from the output files of FEMTIC.
 
 You need to execute it with the following arguments.
 
-[mesh type(2)] [iteration number] [name of points file]
+[mesh type (2)] [iteration number] [name of points file]
 
 This version only supports the nonconforming hexahedral mesh (mesh type = 2).
 
