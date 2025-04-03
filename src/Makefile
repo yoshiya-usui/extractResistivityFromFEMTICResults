@@ -11,7 +11,7 @@ OBJS          = ExtractResistivityFromPointsList.o \
                 MeshDataNonConformingHexaElement.o \
                 ResistivityBlock.o \
                 Util.o
-PROGRAM       = extractResistivityFromPointsList
+PROGRAM       = extractResistivityFromFEMTICResults
 
 all:            $(PROGRAM)
 
